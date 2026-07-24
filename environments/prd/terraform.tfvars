@@ -1,0 +1,7 @@
+name                = "basic-prd"
+aws_region          = "ap-southeast-1"
+vpc_cidr            = "10.30.0.0/16"
+public_subnet_cidr  = "10.30.1.0/24"
+private_subnet_cidr = "10.30.2.0/24"
+public_subnet_az    = "ap-southeast-1a"
+private_subnet_az   = "ap-southeast-1b"
